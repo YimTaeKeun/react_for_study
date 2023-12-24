@@ -1,3 +1,8 @@
 .listMap{
-  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+}
+.listMap h1{
+  color: red;
+  font-size: 20px;
 }
